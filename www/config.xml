@@ -3,7 +3,7 @@
         xmlns:gap = 'http://phonegap.com/ns/1.0'
         id        = "es.programadorphp.pgb-push-app2"
         version   = "0.0.1">
-    <name>Push Plugin Sample</name>
+    <name>Push Plugin Sample Vigoncas</name>
 
     <description>
         Push Plugin Sample for PhoneGap Build
